@@ -1,2 +1,1 @@
-# todo
-React project ToDo List
+ToDO App
